@@ -1,0 +1,24 @@
+Programming In Java Lab
+
+language : Java
+
+INDEX
+
+
+# PRACTICAL 1 :
+DATE : (friday , 31 january , 2025)
+
+AIM : Design a Java program to find the largest of 3 given integers.
+
+DESCRIPTION : the name of the class is largest , having data members num1 , num2 , num3 , res . Member functions
+of the class are inputData() , findLargest() , displayLargest() . Make a seperate class to create void main. 
+
+LINK : https://github.com/manakcodes/Programming-In-Java-Lab-SEM4/blob/1bdc573babe93b033083dd59869f76a4fb672850/TestLargest.java
+
+
+# PRACTICAL 2 :
+DATE : (friday , 31 january , 2025)
+
+AIM : Design a Java program to define a class ,describe ita constructor , over - load the constructor and instantiate the object.
+
+LINK : https://github.com/manakcodes/Programming-In-Java-Lab-SEM4/blob/1bdc573babe93b033083dd59869f76a4fb672850/TestOOPs.java
